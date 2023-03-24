@@ -1,8 +1,8 @@
+<html>
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
-
-```js
+</html>
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <div align="center" width="50">
@@ -32,6 +32,7 @@ Happy Coding! 😊
 
 
 ⭐ From [ABSphreak](https://github.com/ABSphreak)
+<html>
 import SoftwareDeveloper from 'Praneetbose.dev';
 
 class Bio extends SoftwareDeveloper {
@@ -49,3 +50,4 @@ class Skills extends SoftwareDeveloper {
 ```
 
 ⭐️ From [thompsonemerson](https://github.com/thompsonemerson)
+</html>
