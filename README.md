@@ -19,4 +19,4 @@ const praneet = {
 ```
 
 
-⭐️ From [@praneetZ](https://github.com/PraneetBose)
+⭐️ From [@praneet](https://github.com/PraneetBose)
