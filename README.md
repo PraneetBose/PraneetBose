@@ -9,7 +9,7 @@ const praneet = {
     technologies: {
         frontEnd: {
             js: ["Vue", "React", "Angular"],
-            css: ["bootstrap", "sass"]
+            css: ["bootstrap", "tailwind"]
         };
         backEnd: ["Java", "PHP"],
         databases: ["MySql", "oracle","azure"],
