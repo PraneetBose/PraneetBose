@@ -20,5 +20,6 @@ const praneet = {
 
 ⭐️ From [@praneet](https://github.com/PraneetBose)
 
-![Uploading image.png…]()
+![image](https://github.com/PraneetBose/PraneetBose/assets/94593299/2de8318c-895e-4a26-9a4b-f741eaeefd9b)
+
 
