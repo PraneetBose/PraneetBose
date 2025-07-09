@@ -28,10 +28,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneetbose&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Praneetbose&theme=react-dark&hide_border=true)
 ![](https://github-trophies.vercel.app/?username=Praneetbose&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Praneetbose&icon=3&color=9)](https://visitcount.itsvg.in)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Praneetbose&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+
 
 ⭐️ From [@praneet](https://github.com/PraneetBose)
 
