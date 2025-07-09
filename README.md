@@ -4,18 +4,18 @@
 
 
 # 💻 Language and Tools:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,reactjs" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,react,kotlin,kali,mysql,nodejs,sass,flutter,bootstrap&perline=6" />
   </a>
 </p>
 <br>
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="150">
 
 # 🛠 Tools :
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,clion,pycharm,webstorm,swift" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,clion,pycharm,webstorm,idea,swift" />
   </a>
 </p>
 
