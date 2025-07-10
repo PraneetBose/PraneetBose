@@ -1,7 +1,9 @@
+<img align='left' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="180">
 <p align="center">
   <a href="https://github.com/DenverCoder1">
     <img src="https://images.cooltext.com/5734962.png" alt="Jonah Lawrence" /></a>
 </p>
+<br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+web+developer;Let's+Connect!!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
@@ -20,7 +22,7 @@
   </a>
 </p>
 <br>
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="150">
+
 
 # 🛠 Tools :
 <p align="left">
