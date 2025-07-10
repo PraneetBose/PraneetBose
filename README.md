@@ -1,7 +1,7 @@
-<img align='left' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="180">
+
 <p align="center">
   <a href="https://github.com/DenverCoder1">
-    <img src="https://images.cooltext.com/5734962.png" alt="Jonah Lawrence" /></a>
+    <img src="https://images.cooltext.com/5734962.png" alt="Praneet Bose" /></a>
 </p>
 <br>
 <p align="center">
@@ -44,6 +44,7 @@
 [![](https://visitcount.itsvg.in/api?id=Praneetbose&icon=3&color=9)](https://visitcount.itsvg.in)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Praneetbose&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+
 
 
 ⭐️ From [@praneet](https://github.com/PraneetBose)
