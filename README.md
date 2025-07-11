@@ -47,7 +47,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Praneetbose&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
-
+![Profile Stats](https://komarev.com/ghpvc/?username=Praneetbose&color=blue)
 
 ⭐️ From [@praneet](https://github.com/PraneetBose)
 
