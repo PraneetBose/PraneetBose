@@ -1,4 +1,6 @@
-<br>
+![Profile Stats](https://komarev.com/ghpvc/?username=Praneetbose&color=blueviolet&style=plastic)
+
+
 <p align="center">
   <a href="https://github.com/DenverCoder1">
     <img src="https://images.cooltext.com/5734962.png" alt="Praneet Bose" /></a>
@@ -47,7 +49,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Praneetbose&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
-![Profile Stats](https://komarev.com/ghpvc/?username=Praneetbose&color=blue)
+
 
 ⭐️ From [@praneet](https://github.com/PraneetBose)
 
